@@ -1,0 +1,14 @@
+# name = input("what is your name: ")
+# print("Hello, ", name )
+# age = input("What is your age: ", )
+# country = input("What is your country:")
+# print(f"Hi my name is {name}\nMy age is {age} \nIm from {country}")
+# my_string = "Vishnu "
+# mystring_lenght = len(my_string)
+# print(mystring_lenght)
+
+string_1 = "Hi"
+string_2 = " Vishnu"
+# print(string_1 + string_2)
+my_name = "Vishnu"
+print(my_name[6])
