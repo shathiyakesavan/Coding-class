@@ -1,14 +1,14 @@
-mom_birthday = "15/03/1970"
-dad_birthday = "22/07/1968"
-sister_birthday = "30/11/1995"
-brother_birthday = "05/09/1992"
-grandma_birthday = "12/12/1945"
+josh_birthday = "15/03/2010"
+bob_birthday = "22/07/2012"
+billy_birthday = "30/11/2010"
+alex_birthday = "05/09/2011"
+cooper_birthday = "12/12/2011"
 
 
 print("Stored Family Birthdays:")
 print("-" * 25)
-print(f"Mom's Birthday:     {mom_birthday}")
-print(f"Dad's Birthday:     {dad_birthday}")
-print(f"Sister's Birthday:  {sister_birthday}")
-print(f"Brother's Birthday: {brother_birthday}")
-print(f"Grandma's Birthday: {grandma_birthday}")
+print(f"Josh's Birthday:     {josh_birthday}")
+print(f"Bob's Birthday:     {bob_birthday}")
+print(f"Billy's Birthday:  {billy_birthday}")
+print(f"Alex's Birthday: {alex_birthday}")
+print(f"Cooper's Birthday: {cooper_birthday}")
